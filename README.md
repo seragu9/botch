@@ -2,4 +2,4 @@
 chbot
 
 ### Diagrama en bloques
-  <img src="https://i.ibb.co/ynmFtjZ6/TP1-sag.png">
+  <img src="https://i.ibb.co/rGpx9MkY/tp-diagram.png">
